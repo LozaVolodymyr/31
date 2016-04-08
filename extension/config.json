@@ -1,0 +1,12 @@
+{
+	"serverURL" : "www.expample.com",
+	"menu" : {
+		"img":"chrome.extension.getURL('mc.png')",
+		
+		"submenu" : {
+			"count" : "3",
+			"img":"chrome.extension.getURL('mc.png')",
+			"item" : "<div class='subActionButton'><p class='floatingText'><span class='floatingTextBG'>Add Contact</span></p>"
+		}
+	},
+}
